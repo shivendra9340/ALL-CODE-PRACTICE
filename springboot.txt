@@ -9,6 +9,8 @@ public class main{
             int i=30;
 
             int i =40;
+
+             int i -=35
 }
 
 }
