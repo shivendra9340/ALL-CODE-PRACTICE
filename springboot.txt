@@ -5,7 +5,10 @@ public class main{
    public static void main(String[]args){
 
            system.out.perintln("hello this is first java programming");
-int i=30;
+
+            int i=30;
+
+            int i =40;
 }
 
 }
