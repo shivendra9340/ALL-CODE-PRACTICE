@@ -1,0 +1,10 @@
+package p2;
+
+public class A{
+
+   public static void main(String[]args){
+
+           system.out.perintln("hello this is first java programming");
+}
+
+}
